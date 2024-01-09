@@ -10,23 +10,20 @@ From the intricacies of predictive analysis to the elegance of streamlined machi
 
 ## Projects at a Glance
 
-### 1. Analysis Predict
+### 1. [Analysis Predict](https://github.com/Martwuene/anaylsis_predict)
 Unleash the power of 7 functions designed for precise and insightful predictive analysis, offering a glimpse into the intricacies of data manipulation and forecasting.
 
-### 2. Test Repository
+### 2. [Test Repository](https://github.com/Martwuene/test_d_repo.git)
 A dynamic playground for experimentation, this test repository reflects my commitment to continuous learning, where each code snippet is a stepping stone toward mastery.
 
-### 3. Loan Default Challenge
+### 3. [Loan Default Challenge](https://github.com/Martwuene/LTFS---Loan-Default-Challenge)
 Embark on a data-driven journey through the LTFS Loan Default Challenge, showcasing my prowess in leveraging Jupyter Notebooks to solve real-world financial problems.
 
-### 4. Classification Predict Streamlit Template
+### 4. [Classification Predict Streamlit Template](https://github.com/Martwuene/classification-predict-streamlit-template)
 Experience the future of interactive model deployment with this Streamlit-powered template, created to streamline the classification prediction process with elegance.
 
-### 5. Sigma Coding YouTube Code Collection
+### 5. [Sigma Coding YouTube Code Collection](https://github.com/Martwuene/sigma_coding_youtube)
 Unlock the secrets behind my YouTube channel, Sigma Coding, where code meets clarity in a collection of projects ranging from data analysis to machine learning.
-
-### 6. Credit Scoring Project
-Delve into the intricacies of credit scoring with this Python-driven project, showcasing my dedication to building robust solutions in the financial domain.
 
 ## Beyond Repositories: A Data-Driven Odyssey
 
